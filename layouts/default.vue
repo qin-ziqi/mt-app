@@ -11,14 +11,7 @@
 </template>
 
 <script>
-// import { Component, Vue } from "vue-property-decorator";
 import MyHeader from "@/components/public/header/index.vue";
-// @Component({
-//   components: {
-//     MyHeader
-//   }
-// })
-// export default class extends Vue {}
 
 export default {
   components: {
